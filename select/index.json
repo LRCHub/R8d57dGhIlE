@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "おわらないうた",
+  "base_artist": "大漠波新",
+  "createdAt": "2026-02-26T03:18:10.808979Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "おわらないうた",
+      "artist": "大漠波新",
+      "has_synced": false,
+      "path": "select/pl_01_おわらないうた_大漠波新.txt"
+    }
+  ]
+}
